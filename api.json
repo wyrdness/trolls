@@ -1,10 +1,8 @@
 {
-  "category": "FAE_FOLKLORE",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/trolls",
     "maintainers": [
       {
@@ -18,335 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "trolls",
     "name": "Trolls",
-    "aliases": [
-      {
-        "name": "Troll",
-        "language": "Old Norse",
-        "region": "Scandinavia"
-      },
-      {
-        "name": "Trold",
-        "language": "Danish",
-        "region": "Denmark"
-      },
-      {
-        "name": "Trows",
-        "language": "Scots",
-        "region": "Orkney and Shetland"
-      }
-    ],
-    "category": "FAE_FOLKLORE",
-    "subcategory": "Scandinavian Folklore",
+    "aliases": [],
+    "category": "|_FAE_FOLKLORE_|",
+    "subcategory": "| Traditional folklore |",
     "tags": [
       "folklore",
-      "scandinavia",
-      "giants",
-      "mountains",
-      "caves",
-      "stone",
-      "traditional",
-      "cultural-heritage"
+      "mythology"
     ],
-    "status": "traditional-folklore",
+    "status": "documented",
     "description": {
-      "summary": "Giant, humanoid creatures from Scandinavian folklore. Trolls are typically described as large, ugly, and dim-witted beings who live in mountains, caves, or forests. They turn to stone when exposed to sunlight and are generally hostile to humans. Regional variations exist across Norway, Sweden, Denmark, and Iceland.",
-      "full": "Trolls are creatures from Scandinavian folklore, deeply embedded in the cultural traditions of Norway, Sweden, Denmark, and Iceland. Typically depicted as large, grotesque humanoids, trolls are said to dwell in mountains, caves, and remote forests, away from human settlements. One of their most distinctive characteristics is their vulnerability to sunlight, which turns them to stone. Trolls are often portrayed as hostile to humans, sometimes stealing children or livestock, but are also depicted as slow-witted and easily tricked. The concept of trolls varies by region: Norwegian trolls are often enormous mountain-dwellers, while Danish and Swedish variants may be smaller forest creatures. In modern times, trolls have transitioned from fearsome folklore figures to beloved characters in children's stories and Scandinavian tourism, while retaining their significance in traditional cultural heritage."
+      "summary": "Trolls are creatures from Scandinavian folklore, deeply embedded in the cultural traditions of Norway, Sweden, Denmark, and Iceland.",
+      "full": "Trolls are creatures from Scandinavian folklore, deeply embedded in the cultural traditions of Norway, Sweden, Denmark, and Iceland. Typically depicted as large, grotesque humanoids, trolls dwell in mountains, caves, and remote forests, away from human settlements. One of their most distinctive characteristics is their vulnerability to **sunlight**, which turns them to **stone**. This trait has been used to explain unusual rock formations throughout Scandinavia. Trolls are often portrayed as hostile to humans—sometimes stealing children or livestock—but are also depicted as slow-witted and easily tricked by clever protagonists."
     },
     "etymology": {
-      "origin": "Old Norse 'troll,' originally meaning a giant or supernatural being",
-      "meaning": "Giant, supernatural being, fiend",
-      "first_use": "Pre-Christian Scandinavian traditions"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
-      "category": "FAE_FOLKLORE",
-      "type": "Giant/Humanoid",
-      "subtype": "Scandinavian",
-      "variant": "Regional variations"
+      "category": "|_FAE_FOLKLORE_|",
+      "type": "| Traditional folklore |",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "giants",
-        "name": "Giants",
-        "relationship": "similar",
-        "description": "European folklore giants, overlapping traditions"
-      },
-      {
-        "id": "fairies",
-        "name": "Fairies",
-        "relationship": "related",
-        "description": "Some troll variants share fae characteristics"
-      },
-      {
-        "id": "ogres",
-        "name": "Ogres",
-        "relationship": "similar",
-        "description": "Similar man-eating giant humanoids in European folklore"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "size": "Variable by region - from human-sized to enormous (mountain-sized)",
-      "appearance": [
-        "Large, grotesque humanoid form",
-        "Ugly, misshapen features",
-        "Often multiple heads (in some tales)",
-        "Long noses",
-        "Shaggy hair",
-        "Sometimes tails",
-        "Stone-like skin in some descriptions"
-      ],
-      "features": [
-        {
-          "feature": "Size",
-          "description": "Norwegian: Enormous, mountain-sized; Danish/Swedish: Smaller, human to large",
-          "frequency": "always"
-        },
-        {
-          "feature": "Stone transformation",
-          "description": "Turn to stone when exposed to sunlight",
-          "frequency": "common"
-        },
-        {
-          "feature": "Multiple heads",
-          "description": "Some trolls depicted with multiple heads",
-          "frequency": "occasional"
-        },
-        {
-          "feature": "Tail",
-          "description": "Often depicted with cow-like or lion-like tail",
-          "frequency": "common"
-        }
-      ]
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Strength",
-        "description": "Tremendous physical strength, can hurl boulders",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Shape-shifting",
-        "description": "Some trolls can change form",
-        "evidence_level": "folklore",
-        "frequency": "rare"
-      },
-      {
-        "ability": "Magic",
-        "description": "Limited magical abilities in some tales",
-        "evidence_level": "folklore",
-        "frequency": "occasional"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "disposition": "Generally hostile to humans",
-      "intelligence": "Typically depicted as dim-witted, easily tricked",
-      "habitat": [
-        "Mountains",
-        "Caves",
-        "Forests",
-        "Under bridges",
-        "Remote wilderness"
-      ],
-      "diet": "Omnivorous, sometimes man-eating in darker tales",
-      "patterns": [
-        "Nocturnal (avoid sunlight)",
-        "Territorial",
-        "Sometimes steal children or livestock",
-        "Hoard treasure in some tales",
-        "Live in family groups"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
-    "weaknesses": [
-      {
-        "weakness": "Sunlight",
-        "description": "Turn to stone when exposed to sun",
-        "universality": "very common"
-      },
-      {
-        "weakness": "Church bells",
-        "description": "Repelled by Christian symbols and sounds",
-        "universality": "common"
-      },
-      {
-        "weakness": "Intelligence",
-        "description": "Can be outwitted by clever humans",
-        "universality": "common"
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
       }
-    ]
-  },
-
-  "regional_variations": {
-    "norwegian": {
-      "description": "Huge mountain-dwelling trolls, often enormous",
-      "characteristics": [
-        "Mountain-sized giants",
-        "Associated with specific mountains and rock formations",
-        "Turn to stone at dawn (explaining rock formations)",
-        "Very strong but very stupid",
-        "Sometimes helpful if treated with respect"
-      ],
-      "cultural_role": "Explanation for rock formations and mountain shapes"
-    },
-    "danish_swedish": {
-      "description": "Smaller forest and cave trolls",
-      "characteristics": [
-        "Human-sized to moderately large",
-        "Live in forests, mounds, and caves",
-        "More magical, fae-like qualities",
-        "Sometimes interact with humans",
-        "Can be helpful or harmful"
-      ],
-      "cultural_role": "Forest spirits, cautionary tales"
-    },
-    "icelandic": {
-      "description": "Similar to elves or hidden people (huldufólk)",
-      "characteristics": [
-        "Overlap with elf traditions",
-        "Live in rocks and hills",
-        "More human-like in behavior",
-        "Can intermarry with humans in some tales"
-      ],
-      "cultural_role": "Part of huldufólk tradition"
-    },
-    "faroese": {
-      "description": "Sea and land trolls",
-      "characteristics": [
-        "Some associated with sea and cliffs",
-        "Giants who shaped the landscape",
-        "Turn to stone at sunrise"
-      ]
     }
   },
-
-  "cultural_significance": {
-    "folklore_role": {
-      "explanatory": "Account for rock formations, mountains, boulders as petrified trolls",
-      "cautionary": "Warning tales for children about wilderness dangers",
-      "entertainment": "Popular subjects of folk tales and legends",
-      "identity": "Symbol of Scandinavian cultural heritage"
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "traditional_beliefs": {
-      "historical_belief": "Trolls were considered real beings in pre-Christian and early Christian Scandinavia",
-      "christianization": "Troll stories adapted as Christianity spread; church bells repel trolls",
-      "landscape_connection": "Deeply tied to Scandinavian landscape and geography"
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
     },
-    "modern_significance": {
-      "tourism": [
-        "Troll sculptures and parks throughout Scandinavia",
-        "Tourist attractions in Norway, Iceland",
-        "Troll museums and exhibitions"
-      ],
-      "cultural_identity": "Symbol of Nordic heritage and folklore",
-      "children_stories": "Evolved into child-friendly characters"
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "famous_tales": [
-    {
-      "title": "Three Billy Goats Gruff",
-      "origin": "Norwegian folk tale",
-      "summary": "Three goats must cross a bridge guarded by a troll who wants to eat them. Each goat tricks the troll into waiting for a bigger meal, until the largest goat defeats him.",
-      "cultural_impact": "One of the most famous troll stories worldwide",
-      "moral": "Intelligence over brute strength"
-    },
-    {
-      "title": "The Troll Who Lost His Temper",
-      "origin": "Norwegian folk tale",
-      "summary": "Troll outwitted by clever humans",
-      "theme": "Trolls as dim-witted, easily tricked"
-    },
-    {
-      "title": "Peer Gynt",
-      "origin": "Norwegian play by Henrik Ibsen",
-      "summary": "Features trolls in the Hall of the Mountain King",
-      "cultural_impact": "Inspired Grieg's famous musical piece"
-    }
-  ],
-
-  "popular_culture": {
-    "literature": [
-      "Trolls in J.R.R. Tolkien's works (*The Hobbit*, *Lord of the Rings*)",
-      "Terry Pratchett's Discworld series",
-      "Scandinavian children's books",
-      "Swedish/Norwegian troll storybooks"
-    ],
-    "film_tv": [
-      "*Trollhunter* (2010) - Norwegian found-footage film",
-      "*Frozen* (2013) - Disney's benevolent troll characters",
-      "*Trolls* franchise - DreamWorks animated films",
-      "*The Hobbit* trilogy - Tolkien's trolls"
-    ],
-    "music": [
-      "Edvard Grieg - 'In the Hall of the Mountain King' (inspired by trolls in Peer Gynt)"
-    ],
-    "games": [
-      "Trolls as monsters in numerous fantasy games (D&D, Warcraft, etc.)",
-      "Norwegian troll-themed video games"
-    ]
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "historical_context": {
-    "origins": "Pre-Christian Scandinavian mythology and folklore",
-    "development": "Evolved from Norse mythology giants (jötnar) into distinct folklore creatures",
-    "christianization_impact": "Christian elements added (church bells, crosses repelling trolls)",
-    "modern_evolution": "Transformation from fearsome to cute in 20th-21st centuries"
-  },
-
-  "cultural_sensitivity": {
-    "note": "Trolls are core Scandinavian folklore and cultural heritage",
-    "respect_guidelines": [
-      "Recognize trolls as important cultural symbols for Nordic peoples",
-      "Distinguish between traditional folklore and modern commercialized versions",
-      "Acknowledge regional variations and local traditions",
-      "Respect that trolls represent deep connection to Scandinavian landscape and history"
-    ],
-    "living_tradition": "Troll lore remains part of living Scandinavian cultural identity"
-  },
-
-  "evidence_status": {
-    "type": "Traditional folklore",
-    "claimed_sightings": "No modern credible sightings claimed",
-    "physical_evidence": "Rock formations attributed to petrified trolls (folklore explanations)",
-    "cultural_evidence": "Extensive folklore, place names, traditional stories",
-    "status": "Recognized as folklore and cultural tradition, not cryptozoological claim"
-  },
-
-  "sources": [
-    {
-      "id": "asbjornsen-moe",
-      "type": "book",
-      "title": "Norwegian Folktales",
-      "authors": ["Peter Christen Asbjørnsen", "Jørgen Moe"],
-      "publication": "Various editions",
-      "date": "1841-1844",
-      "significance": "Classic collection of Norwegian folklore including troll tales"
-    },
-    {
-      "id": "lindow-2001",
-      "type": "book",
-      "title": "Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs",
-      "authors": ["John Lindow"],
-      "publication": "Oxford University Press",
-      "date": "2001",
-      "isbn": "978-0195153828"
-    },
-    {
-      "id": "kvideland-sehmsdorf-1988",
-      "type": "book",
-      "title": "Scandinavian Folk Belief and Legend",
-      "authors": ["Reimund Kvideland", "Henning K. Sehmsdorf"],
-      "publication": "University of Minnesota Press",
-      "date": "1988",
-      "isbn": "978-0816617661"
-    }
-  ]
+  "sources": []
 }
